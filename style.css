@@ -1,0 +1,21 @@
+.container-fluid{
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.my-text-justify{
+ text-align: justify;   
+}
+.my-item{
+    display: flex;
+    flex-direction: column;
+}
+.my-iteam{
+    text-decoration: none;
+}
+.footer-item{
+    display: grid;
+}
+.new{
+    display: flex;
+}
